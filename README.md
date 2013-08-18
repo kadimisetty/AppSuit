@@ -1,10 +1,19 @@
 # AppSuit
 Suit up your app — flat design style.
 
+### Author:
+Sri Kadimisetty    
+[sri.io](http://sri.io)
 
-## Devices 
+
+## Notes
+- Find mockups within the `devices` directory.
+- Each PNG image should be accompanied by a `@2x.png` version that is retina-resolution ready.
+
+## Devices so far
 - iPhone 5
     - White
+    - Black
 
 
 ## Formats
@@ -12,12 +21,9 @@ Suit up your app — flat design style.
 - [Sketch](http://www.bohemiancoding.com/sketch/)
 
 
-## Notes
-- Each image should have a `@2x.png` copy for the retina display. (Thanks Sketch!)
-
-
 ## Example
 ![iPhone 5 White](https://raw.github.com/kadimisetty/AppSuit/master/iPhone5/White/PNG/iPhone%205%20White.png)
+![iPhone 5 Black](https://raw.github.com/kadimisetty/AppSuit/master/iPhone5/White/PNG/iPhone%205%20Black.png)
 
 
 ## License 
