@@ -23,9 +23,8 @@ Sri Kadimisetty
 
 ## Example
 *Non-Retina Images*    
-![iPhone 5 White](https://raw.github.com/kadimisetty/AppSuit/master/iPhone5/White/PNG/iPhone%205%20White.png)
-![iPhone 5 Black](https://raw.github.com/kadimisetty/AppSuit/master/iPhone5/White/PNG/iPhone%205%20Black.png)
-![iPhone 5 Black](/devices/iPhone5/Black/PNG/iPhone%205%20Black.png)
+![iPhone 5 White](https://raw.github.com/kadimisetty/AppSuit/master/devices/iPhone5/White/iPhone%205%20White.png)
+![iPhone 5 Black](https://raw.github.com/kadimisetty/AppSuit/master/devices/iPhone5/Black/iPhone%205%20Black.png)
 
 
 ## License 
