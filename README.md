@@ -22,7 +22,7 @@ Sri Kadimisetty
 
 
 ## Examples
-![iPhone 5 Black](https://raw.github.com/kadimisetty/AppSuit/master/demo/Small%20iPhone%205%20Black.png)
+![iPhone 5 Black](https://raw.github.com/kadimisetty/AppSuit/master/demo/Small%20iPhone%205%20Black.png)    
 ![iPhone 5 White](https://raw.github.com/kadimisetty/AppSuit/master/demo/Small%20iPhone%205%20White.png)
 
 Note that I'm using low-res versions. Access the images for higher quality versions.
