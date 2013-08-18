@@ -1,5 +1,5 @@
 # AppSuit
-Suit up your app — flat design style.
+Suit up your app with mobile mockups — flat design style.
 
 ### Author:
 Sri Kadimisetty    
@@ -22,7 +22,10 @@ Sri Kadimisetty
 
 
 ## Example
-*Non-Retina Images*    
+
+Note: 
+    Displaying the Non-retina versions. Check the `image@2x.png` for retina-ready versions.
+
 ![iPhone 5 White](https://raw.github.com/kadimisetty/AppSuit/master/devices/iPhone5/White/iPhone%205%20White.png)
 ![iPhone 5 Black](https://raw.github.com/kadimisetty/AppSuit/master/devices/iPhone5/Black/iPhone%205%20Black.png)
 
