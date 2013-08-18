@@ -1,20 +1,25 @@
 # AppSuit
-
 Suit up your app — flat design style.
 
+
 ## Devices 
-iPhone 5
+- iPhone 5
+    - White
 
 
 ## Formats
 - PNG
 - [Sketch](http://www.bohemiancoding.com/sketch/)
 
+
 ## Notes
-- There is a `@2x` retina version of each image.
+- Each image should have a `@2x.png` copy for the retina display. (Thanks Sketch!)
+
 
 ## Example
 ![iPhone 5 White](https://raw.github.com/kadimisetty/AppSuit/master/iPhone5/White/PNG/iPhone%205%20White.png)
+
+
 ## License 
 The MIT License (MIT)
 
