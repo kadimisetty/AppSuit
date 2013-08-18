@@ -10,7 +10,11 @@ iPhone 5
 - PNG
 - [Sketch](http://www.bohemiancoding.com/sketch/)
 
+## Notes
+- There is a `@2x` retina version of each image.
 
+## Example
+![iPhone 5 White](https://raw.github.com/kadimisetty/AppSuit/master/iPhone5/White/PNG/iPhone%205%20White.png)
 ## License 
 The MIT License (MIT)
 
