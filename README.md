@@ -21,14 +21,12 @@ Sri Kadimisetty
 - [Sketch](http://www.bohemiancoding.com/sketch/)
 
 
-## Example
-
-
-![iPhone 5 White](https://raw.github.com/kadimisetty/AppSuit/master/demo/Small%20iPhone%205%20White.png)
+## Examples
 ![iPhone 5 Black](https://raw.github.com/kadimisetty/AppSuit/master/demo/Small%20iPhone%205%20Black.png)
+![iPhone 5 White](https://raw.github.com/kadimisetty/AppSuit/master/demo/Small%20iPhone%205%20White.png)
 
-Note: 
-    These are low-resolution pictures.
+Note that these are low-resolution pictures.
+
 
 ## License 
 The MIT License (MIT)
