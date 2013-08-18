@@ -23,12 +23,12 @@ Sri Kadimisetty
 
 ## Example
 
+
+![iPhone 5 White](https://raw.github.com/kadimisetty/AppSuit/master/demo/iPhone5/White/Small%20iPhone%205%20White.png)
+![iPhone 5 Black](https://raw.github.com/kadimisetty/AppSuit/master/demo/iPhone5/Black/Small%20iPhone%205%20Black.png)
+
 Note: 
-    Displaying the Non-retina versions. Check the `image@2x.png` for retina-ready versions.
-
-![iPhone 5 White](https://raw.github.com/kadimisetty/AppSuit/master/devices/iPhone5/White/iPhone%205%20White.png)
-![iPhone 5 Black](https://raw.github.com/kadimisetty/AppSuit/master/devices/iPhone5/Black/iPhone%205%20Black.png)
-
+    These are low-resolution pictures.
 
 ## License 
 The MIT License (MIT)
