@@ -24,8 +24,8 @@ Sri Kadimisetty
 ## Example
 
 
-![iPhone 5 White](https://raw.github.com/kadimisetty/AppSuit/master/demo/iPhone5/White/Small%20iPhone%205%20White.png)
-![iPhone 5 Black](https://raw.github.com/kadimisetty/AppSuit/master/demo/iPhone5/Black/Small%20iPhone%205%20Black.png)
+![iPhone 5 White](https://raw.github.com/kadimisetty/AppSuit/master/demo/Small%20iPhone%205%20White.png)
+![iPhone 5 Black](https://raw.github.com/kadimisetty/AppSuit/master/demo/Small%20iPhone%205%20Black.png)
 
 Note: 
     These are low-resolution pictures.
