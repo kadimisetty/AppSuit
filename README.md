@@ -7,25 +7,20 @@ Sri Kadimisetty
 
 
 ## Notes
-- Find mockups within the `devices` directory.
-- Each PNG image should be accompanied by a `@2x.png` version that is retina-resolution ready.
+- Available in flat PNGs and Sketch.app formats
+- Each PNG image is accompanied by a retina-resolution ready `@2x.png`
+- The Sketch.app files have a `Screen Mask` layer to fill your mockup screens into
 
 ## Devices so far
 - iPhone 5
     - White
     - Black
+- Macbook Retina
 
 
-## Formats
-- PNG
-- [Sketch](http://www.bohemiancoding.com/sketch/)
-
-
-## Examples
-![iPhone 5 Black](https://raw.github.com/kadimisetty/AppSuit/master/demo/Small%20iPhone%205%20Black.png)    
-![iPhone 5 White](https://raw.github.com/kadimisetty/AppSuit/master/demo/Small%20iPhone%205%20White.png)
-
-Note that I'm using low-res versions. Access the images for higher quality versions.
+## Device Previews
+![iPhone 5](/Users/sri/dev/personal/AppSuit/src/iPhone5.sketch/QuickLook/Preview.png)
+![Macbook](/Users/sri/dev/personal/AppSuit/src/Macs.sketch/QuickLook/Preview.png)
 
 
 ## License 
