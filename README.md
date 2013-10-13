@@ -19,8 +19,8 @@ Sri Kadimisetty
 
 
 ## Device Previews
-![iPhone 5](/Users/sri/dev/personal/AppSuit/src/iPhone5.sketch/QuickLook/Preview.png)
-![Macbook](/Users/sri/dev/personal/AppSuit/src/Macs.sketch/QuickLook/Preview.png)
+![iPhone 5](https://raw.github.com/kadimisetty/AppSuit/master/src/iPhone5.sketch/QuickLook/Preview.png)
+![Macbook](https://raw.github.com/kadimisetty/AppSuit/master/src/Macs.sketch/QuickLook/Preview.png)
 
 
 ## License 
